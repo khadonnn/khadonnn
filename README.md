@@ -1,4 +1,4 @@
-## Hi there, I'm Khadondev👋
+## Hi, I'm Khadondev👋
 
 <details>
   <summary>📜 About Me</summary>
@@ -14,17 +14,11 @@ class KhadonDev {
 }
 ```
 
-<br>
-<h2 align="center">🤗Contact with me👋</h2>
-<br>
-<div align="left">
- <a href="https://khadon.io.vn" target="blank">
-    <img width="90" height="90" src="images/khadon.webp" alt="khadon" />
-  </a>
-   <a href="https://www.linkedin.com/in/kha-nguyen1301" target="blank">
-    <img width="90" height="90" src="images/linkedln.png" alt="khadon-linkedin" />
-  </a>
-</div>
+</details>
+<a href="#" target="_blank">
+<img src="svg/khadon.svg" width="1200" alt="khadon" />
+</a>
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -62,7 +56,14 @@ class KhadonDev {
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="Postgresql logo" title="Postgresql" height="25" /></span>
 &nbsp;
-
-<a href="#" target="_blank">
-<img src="svg/khadon.svg" width="1200" alt="khadon" />
-</a>
+<br>
+<h2 align="center">🤗Contact with me👋</h2>
+<br>
+<div align="left">
+ <a href="https://khadon.io.vn" target="blank">
+    <img width="90" height="90" src="images/khadon.png" alt="khadon" />
+  </a>
+   <a href="https://www.linkedin.com/in/kha-nguyen1301" target="blank">
+    <img width="90" height="90" src="images/linkedln.png" alt="khadon-linkedin" />
+  </a>
+</div>
