@@ -59,7 +59,7 @@ class KhadonDev {
 <br>
 <h2 align="center">🤗Contact with me👋</h2>
 <br>
-<div align="left">
+<div align="center">
  <a href="https://khadon.io.vn" target="blank">
     <img width="90" height="90" src="images/khadon.png" alt="khadon" />
   </a>
